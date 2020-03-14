@@ -1,0 +1,23 @@
+{
+  "name": "emotion-global-type-injection-repro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:fatfisz/emotion-global-type-injection-repro.git",
+  "author": "fatfisz <fatfisz@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@storybook/addon-knobs": "^5.3.17",
+    "@types/styled-components": "^5.0.1",
+    "jest": "^25.1.0",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0",
+    "react-is": "^16.13.0",
+    "regenerator-runtime": "^0.13.5",
+    "storybook": "^5.3.17",
+    "styled-components": "^5.0.1",
+    "typescript": "^3.8.3"
+  },
+  "scripts": {
+    "test": "tsc"
+  }
+}

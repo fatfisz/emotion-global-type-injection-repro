@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "jsx": "preserve",
+    "noEmit": true,
+    "skipLibCheck": true
+  },
+  "include": [
+    "test"
+  ]
+}
